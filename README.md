@@ -1,6 +1,6 @@
 # whatsapp_automation
 Whatsapp Messenger Automation for sending and receiving messages using selinium, appium, python, Android Virtual Device Emulator
-# Have a look at the Demo Video attached in the root directory to get complete idea of the project.
+# Have a look at the Demo Video to get complete idea of the project.
 
 [![WhatsApp Automation Demo Video](https://i.ytimg.com/vi/TRFLzbDw80k/hqdefault.jpg)](https://www.youtube.com/watch?v=TRFLzbDw80k)
 
