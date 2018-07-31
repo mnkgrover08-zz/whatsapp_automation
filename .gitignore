@@ -1,0 +1,6 @@
+# Compiled source #
+###################
+*.pyc
+*.md
+*.idea
+.DS_Store
