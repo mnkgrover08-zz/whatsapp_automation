@@ -10,7 +10,7 @@ certifi==2017.4.17
 cffi==1.11.0
 chardet==3.0.2
 click==6.7
-cryptography==2.0.3
+cryptography==2.3
 ddtrace==0.11.1
 enum-compat==0.0.2
 enum34==1.1.6
