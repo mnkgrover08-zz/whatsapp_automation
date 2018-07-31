@@ -136,8 +136,7 @@ RESPONSE :
 }
 
 # Points to Remember:
-1. This is just an Experimental Demo which is not intended to voilate any Terms and Conditions of Whatsapp
-2. Android Version and Whatsapp Version needs to taken care because code is written specific to versions. you can go to 
+1. Android Version and Whatsapp Version needs to taken care because code is written specific to versions. you can go to 
 workers folder and edit files accordingly to change your platform version and activity class.
 Like 
 Current Code has:
@@ -146,7 +145,5 @@ Current Code has:
         desired_caps['deviceName'] = 'emulator-5554'
         desired_caps['appPackage'] = 'com.whatsapp'
         desired_caps['appActivity'] = '.Main'
-
-
-# For any Technical Queries contact: mnkgrover08@gmail.com
  
+# Note: This is just an Experimental Demo which is not intended to voilate any Terms and Conditions of Whatsapp
