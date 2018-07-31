@@ -4,7 +4,7 @@ Whatsapp Automation is a collection of APIs that interact with WhatsApp messenge
 
 The project uses Selinium, Appium, Python and Android Virtual Device Emulator.
 
-# Have a look at the Demo Video to get complete idea of the project.
+# Demo Video..
 
 [![WhatsApp Automation Demo Video](https://i.ytimg.com/vi/TRFLzbDw80k/hqdefault.jpg)](https://www.youtube.com/watch?v=TRFLzbDw80k)
 
