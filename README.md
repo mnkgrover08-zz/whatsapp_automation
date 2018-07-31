@@ -1,5 +1,9 @@
-# Whatsapp Automation for sending and recieving messages via python 
-Whatsapp Messenger Automation for sending and receiving messages using selinium, appium, python, Android Virtual Device Emulator
+# Whatsapp Automation for sending and recieving messages
+
+Whatsapp Automation is a collection of APIs that interact with WhatsApp messenger running in an Android emulator, allowing developers to build projects that automate sending and receiving messages, adding new contacts and broadcasting messages multiple contacts.
+
+The project uses Selinium, Appium, Python and Android Virtual Device Emulator.
+
 # Have a look at the Demo Video to get complete idea of the project.
 
 [![WhatsApp Automation Demo Video](https://i.ytimg.com/vi/TRFLzbDw80k/hqdefault.jpg)](https://www.youtube.com/watch?v=TRFLzbDw80k)
