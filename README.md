@@ -26,6 +26,16 @@ Queue names needs to be created prior to running.
 2. Create Exchange with appropriate name.
 3. Bind Exchange with Queue and make routing key in format (queue_name.*) and exchange in format (queue_name.exchange)
 
+# Easy way
+
+Complete Rabbit-MQ setting file is attached in root with name rabbit_mq_config.json Just import it and you are good to go.  
+
+[queue_name]  
+single_message=whatsapp_singlemessage_queue  
+broadcast_message=whatsapp_broadcastmessage_queue  
+add_contact=whatsapp_newcontact_listener_queue  
+listen_message=whatsapp_messagelistener_queue  
+
 # Attached are the Screenshot for reference:
 
 ![Rabbit MQ 1](https://raw.githubusercontent.com/mnkgrover08/whatsapp_automation/master/assets/rabbit-mq-1.png)
