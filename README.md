@@ -57,11 +57,11 @@ Make the necessary log files in directory for error logging.
 sudo mkdir -p /var/www/whatsapp_api  
 sudo chmod -R 777 /var/www/whatsapp_api  
 sudo touch /var/www/whatsapp_single_worker.log  
-sudo chmod -R 777 /var/www/whatsapp_single_worker.log  
+sudo chmod 777 /var/www/whatsapp_single_worker.log  
 sudo touch /var/www/whatsapp_single_consumer.log  
-sudo chmod -R 777 /var/www/whatsapp_single_consumer.log  
+sudo chmod 777 /var/www/whatsapp_single_consumer.log  
 sudo touch /var/log/whatsapp_api/api.log  
-sudo chmod -R 777 /var/log/whatsapp_api/api.log  
+sudo chmod 777 /var/log/whatsapp_api/api.log  
 
 # Adding contact in Google Contacts APP
 
