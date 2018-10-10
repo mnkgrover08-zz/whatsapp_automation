@@ -16,7 +16,7 @@ enum-compat==0.0.2
 enum34==1.1.6
 eventlet==0.21.0
 flasgger==0.6.4
-Flask==0.12
+flask ~> 0.12.3
 Flask-HTTPAuth==2.2.0
 Flask-Mail==0.9.1
 Flask-Prometheus==0.0.1
