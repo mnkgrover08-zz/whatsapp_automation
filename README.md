@@ -167,10 +167,16 @@ RESPONSE :
 workers folder and edit files accordingly to change your platform version and activity class.
 Like 
 Current Code has:
-        desired_caps['platformName'] = 'Android'
-        desired_caps['platformVersion'] = '9'
-        desired_caps['deviceName'] = 'emulator-5554'
-        desired_caps['appPackage'] = 'com.whatsapp'
-        desired_caps['appActivity'] = '.Main'
+
+desired_caps['platformName'] = 'Android' 
+desired_caps['platformVersion'] = '9' 
+desired_caps['deviceName'] = 'emulator-5554' 
+desired_caps['appPackage'] = 'com.whatsapp' 
+desired_caps['appActivity'] = '.Main' 
+
+Android Version is Android-28
+
+[!Android-Version](https://raw.githubusercontent.com/mnkgrover08/whatsapp_automation/master/image-1.png)
+
  
 # Note: This is just an Experimental Demo which is not intended to voilate any Terms and Conditions of Whatsapp
