@@ -176,7 +176,7 @@ desired_caps['appActivity'] = '.Main'
 
 Android Version is Android-28
 
-[!Android-Version](https://raw.githubusercontent.com/mnkgrover08/whatsapp_automation/master/image-1.png)
+![Rabbit MQ 1](https://raw.githubusercontent.com/mnkgrover08/whatsapp_automation/master/image-1.png) 
 
  
 # Note: This is just an Experimental Demo which is not intended to voilate any Terms and Conditions of Whatsapp
