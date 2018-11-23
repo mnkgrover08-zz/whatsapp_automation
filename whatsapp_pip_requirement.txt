@@ -61,7 +61,7 @@ python-dateutil==2.6.0
 python-jenkins==0.4.14
 pytz==2016.10
 PyYAML==3.12
-requests==2.13.0
+requests>=2.20.0
 requests-futures==0.9.5
 retryz==0.1.9
 selenium==3.13.0
