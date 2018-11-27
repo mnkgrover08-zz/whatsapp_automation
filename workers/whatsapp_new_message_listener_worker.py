@@ -127,7 +127,7 @@ class WhatsAppMessageListenr(ParametrizedTestCase):
                                             latest_message = str(last_message.text)
                                             print latest_message
                                             lower_latest_message = latest_message.lower()
-                                            if lower_latest_message == 'start et':
+                                            if lower_latest_message == 'subscribe':
 
                                                 current_mobile_number_xpath = '//android.widget.TextView[contains(@resource-id,"conversation_contact_name")]'
 
@@ -170,7 +170,7 @@ class WhatsAppMessageListenr(ParametrizedTestCase):
                                                     print "Mobile Number Element not found"
 
 
-                                            elif lower_latest_message == 'stop':
+                                            elif lower_latest_message == 'unsubscribe':
 
 
                                                 current_mobile_number_xpath = '//android.widget.TextView[contains(@resource-id,"conversation_contact_name")]'
