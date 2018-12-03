@@ -47,7 +47,7 @@ listen_message=whatsapp_messagelistener_queue
 1. Make a virtulenv for your project
 2. Once you have activated your virtualenv, install the dependencies with command (pip install -r whatsapp_pip_requirement.txt)
 3. Now you need to start the emulator first via command line (./Android/Sdk/emulator/emulator -avd pixel_1). pixel_1 is my avd name
-4. You need to start the appium server with default capabilities set as ("noReset"="true")
+4. You need to start the appium server with default capabilities set as ("noReset"="true"). cmd: appium --default-capabilities '{"noReset": "True"}'  
 5. Once both Emulator and Appium are running, Now you will run your main app.py file.
 6. Specify the environment by typing (export ENV=dev) in terminal, So that dev.cfg is read for configuration.
 7. Type (python app.py) to run main flask application
