@@ -37,7 +37,7 @@ jsonschema==2.6.0
 lxml==3.8.0
 MarkupSafe==1.0
 meld3==1.0.2
-mistune==0.7.4
+mistune>=0.8.1
 msgpack-python==0.5.6
 multi-key-dict==2.0.3
 MySQL-python==1.2.5
@@ -60,7 +60,7 @@ python-3parclient==4.2.4
 python-dateutil==2.6.0
 python-jenkins==0.4.14
 pytz==2016.10
-PyYAML==3.12
+pyyaml>=4.2b1
 requests>=2.20.0
 requests-futures==0.9.5
 retryz==0.1.9
